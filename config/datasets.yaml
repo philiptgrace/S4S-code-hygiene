@@ -1,0 +1,5 @@
+DatasetLabel: cool_data
+InputDatasets:
+  - /tape/DataProd/file1.root
+  - /tape/DataProd/file2.root
+  - /tape/DataProd/file3.root
